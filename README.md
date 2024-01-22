@@ -5,6 +5,7 @@
 
 ## 데이터 구성
 ![국내여행로그데이터수집_ERD.png](https://www.aihub.or.kr/web-nas/aihub21/files/editor/2023/07/36ef970d172040699271937b73aeecef.png)  
-(출처: 국내 여행로그 데이터(수도권)(https://www.aihub.or.kr/aihubdata/data/view.do?dataSetSn=71581) - 어노테이션 포맷 및 데이터 구조)  
+> 출처: 국내 여행로그 데이터(수도권)(https://www.aihub.or.kr/aihubdata/data/view.do?dataSetSn=71581) - 어노테이션 포맷 및 데이터 구조  
+
 이 프로젝트에서는 링크에서 제공하는 전체 데이터 중 Training - 원천데이터 - TS_csv.zip의 파일들을 사용합니다. 필요에 따라 해당 폴더의 csv 파일 중 일부 또는 전체를 불러와서 분석 및 모델 학습에 사용합니다.  
 자세한 내용은 출처의 링크에서 '어노테이션 포맷 및 데이터 구조' 칸을 참고하세요.
